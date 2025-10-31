@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cool Responsive Navbar Practicing Project</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="Style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+    />
+  </head>
+  <body>
+    <nav class="topnav">
+      <div class="topnav-logo">火炎のサムライ女子</div>
+      <!-- toggle on media quarry -->
+      <div class="topnav-right-toggle" id="rightToggle">
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
+      </div>
+      <!-- hide as default on media quarry -->
+      <ul class="topnav-right" id="topnavRight">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Service</a></li>
+        <li><a href="#">Blog</a></li>
+        <li><a href="#">Contact</a></li>
+        <!-- <li class="theme-swap">
+          <i class="fa-solid fa-moon"></i> Dark Theme
+        </li> -->
+        <li class="theme-swap" id="themeSwap">
+          <i class="fa-solid fa-sun"></i> Light Theme
+        </li>
+        <li class="bottom" onclick="closeNav()">
+          Close
+          <i class="fa-sharp fa-solid fa-xmark"></i>
+        </li>
+      </ul>
+    </nav>
+    <script src="Script.js"></script>
+  </body>
+</html>
