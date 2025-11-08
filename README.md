@@ -1,7 +1,9 @@
 # 🌙 Responsive Navbar Practice Project
 
-A modern responsive **Navbar project** with theme switcher (Light / Dark mode), hamburger menu animation, and smooth mobile transition effect.
-Built with **HTML, CSS, and JavaScript** — lightweight yet visually polished.
+> A modern responsive **Navbar project** with theme switcher (Light / Dark mode), hamburger menu animation, and smooth mobile transition effect.
+> Built with **HTML, CSS, and JavaScript** — lightweight yet visually polished.
+
+---
 
 ## 🌐 Live Demo
 
