@@ -8,6 +8,8 @@ Built with **HTML, CSS, and JavaScript** — lightweight yet visually polished.
 🔗 **Visit the website:**
 👉 [https://nsnet21.github.io/02-responisve-navbar/](https://nsnet21.github.io/02-responisve-navbar/)
 
+---
+
 ## 🖼️ Preview
 
 ### ☀️ Light Theme
