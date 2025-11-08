@@ -3,9 +3,10 @@
 A modern responsive **Navbar project** with theme switcher (Light / Dark mode), hamburger menu animation, and smooth mobile transition effect.
 Built with **HTML, CSS, and JavaScript** — lightweight yet visually polished.
 
-🔗 **[Live Demo](https://nsnet21.github.io/02-responisve-navbar/)**
+## 🌐 Live Demo
 
----
+🔗 **Visit the website:**
+👉 [https://nsnet21.github.io/02-responisve-navbar/](https://nsnet21.github.io/02-responisve-navbar/)
 
 ## 🖼️ Preview
 
